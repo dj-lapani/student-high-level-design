@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T17:07:34.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="E3NWrXLamDdGj05__SSO" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T17:26:43.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="LeXg8PqP8ruD2uCVsHLT" version="21.6.8" type="github">
   <diagram id="TLIjEoQNjLV_tYfjU4ay" name="Page-2">
     <mxGraphModel dx="1034" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,27 +63,6 @@
         </mxCell>
         <mxCell id="6CjpfWdCH3bPb4ilLrKr-3" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="548" y="205" width="37.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6CjpfWdCH3bPb4ilLrKr-4" value="Message Broker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="685" y="90" width="70" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="6CjpfWdCH3bPb4ilLrKr-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.867;exitDx=0;exitDy=0;entryX=0;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="k233fXRIHFFiw8kQzl4h-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="548" y="140.25" as="sourcePoint" />
-            <mxPoint x="685" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6CjpfWdCH3bPb4ilLrKr-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.019;exitY=0.148;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6CjpfWdCH3bPb4ilLrKr-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="548" y="195" as="sourcePoint" />
-            <mxPoint x="685" y="195" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6CjpfWdCH3bPb4ilLrKr-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.024;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="6CjpfWdCH3bPb4ilLrKr-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="685" y="324.5" as="sourcePoint" />
-            <mxPoint x="548" y="324.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="k233fXRIHFFiw8kQzl4h-1" value="Student Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="80" width="140" height="70" as="geometry" />
